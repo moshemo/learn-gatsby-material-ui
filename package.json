@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-next",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "next",
+    "@material-ui/icons": "^4.0.0-beta.0",
+    "@material-ui/styles": "next",
+    "gatsby": "latest",
+    "gatsby-plugin-material-ui": "next",
+    "gatsby-plugin-react-helmet": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}
